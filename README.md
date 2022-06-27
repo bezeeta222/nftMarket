@@ -217,24 +217,6 @@ npx hardhat run --network localhost scripts/upgrade_box.js
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/6ZY4MT?referralCode=-GINmA)
 
-## Author
 
-👤 **Dung Huynh**
-
-- Website: https://productsway.com/
-- Twitter: [@jellydn](https://twitter.com/jellydn)
-- Github: [@jellydn](https://github.com/jellydn)
-
-## Stargazers 🌟
-
-[![Stargazers repo roster for jellydn/nft-app](https://reporoster.com/stars/jellydn/nft-app)](https://github.com/jellydn/nft-app/stargazers)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q61Q7YM)
-
----
 
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
